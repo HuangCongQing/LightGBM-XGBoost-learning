@@ -1,2 +1,2 @@
 # LightGBM-XGBoost-learning
-LightGBM XGBoost学习
+LightGBM XGBoost 基础学习&实战
